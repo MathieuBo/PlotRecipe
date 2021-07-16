@@ -1,2 +1,4 @@
 # PlotRecipe
-Estimate plots + stats recipe
+
+Recipes to ease the adoption of Estimation Plots.
+
